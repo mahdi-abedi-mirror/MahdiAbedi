@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-mahdi-mirror/mahdi-mirror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mahdi-abedi-mirror/mahdi-abedi-mirror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
